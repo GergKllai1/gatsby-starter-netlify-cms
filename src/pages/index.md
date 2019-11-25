@@ -2,7 +2,7 @@
 templateKey: index-page
 title: Vili Chili
 image: /img/header-860-red_peppers.jpg
-heading: Great coffee with a conscience
+heading: Csípős élvezet
 subheading: 'Csípősebb, mint valaha'
 mainpitch:
   title: Miért mi?
