@@ -1,14 +1,14 @@
 ---
-templateKey: 'product-page'
-path: /products
-title: Our Coffee
-image: /img/jumbotron.jpg
-heading: Great coffee with a conscience
+templateKey: product-page
+title: Termékeink
+image: /img/header-860-red_peppers.jpg
+heading: Csípősebb mint valaha
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  A chili egy közkedvelt élelmiszer, sok magyar ember szereti az erösét.  Ez egy
+  olyan termék, ami hamar felkapott lehet a vevők körében. Egyszerű beszerzése
+  az online értékesítésben rejlik, ahol a vásárló kiválaszthatja a neki
+  szimpatikus terméket, ízesítést, valamint akár remek ajándékötlet is lehet,
+  hiszen oldalunkról akár díszdobozban is vásárolhatnak. 
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -99,3 +99,4 @@ pricing:
       plan: Custom
       price: '??'
 ---
+
