@@ -23,33 +23,63 @@ description: >-
   biztonság és a finomabb termék előállítása érdekében. 
 intro:
   blurbs:
-    - image: /img/coffee.png
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+    - image: /img/received_760859794380145.jpeg
+      text: >-
+        Skorpió chili pehely őrlőben
+
+        100% Trinidad Scorpion Moruga chili pehely, őrlőfejes üvegben. Kiválóan
+        alkalmas főzéshez, vagy utólag csípőssé tenni vele ételeinket!
+        Gazdaságos, csupán egy-két tekerés elegendő lehet.
+
+        1.990,-Ft
+    - image: /img/received_709234599571558.jpeg
+      text: >-
+        Mennydörgés Chili szósz
+
+        Habanero extra szósz, 100 % Habanero! Naturális termék, csupán a
+        Habanerokra jellemző ízzel és csípősséggel. Tökéletes donor szósz,
+        gazdagítva, keverve, elkészíthető a ház saját szósza is.
+
+        1.590,-Ft
+    - image: /img/received_463166667650307.jpeg
+      text: >-
+        Kétszercsíp Chili szósz
+
+        Magyaros ízű, nagyon erős szósz! Jellemzője az ízeket követő fokozatosan
+        erősödő, csípős érzés. Univerzálisan és gazdaságosan használható.
+
+        1.590,-Ft
+    - image: /img/received_446468369586798.jpeg
+      text: >-
+        Füstölt Skorpió chili pehely őrlőben
+
+        100% Füstölt Trinidad Scorpion Moruga chili pehely, őrlőfejes üvegben.
+        Bükkfa füstön füstölt, egyenként válogatott paprikákból.  Kiválóan
+        alkalmas főzéshez, vagy utólag csípőssé tenni vele ételeinket!
+        Gazdaságos, csupán egy-két tekerés elegendő lehet.
+
+        1.990,-Ft
+    - image: /img/received_436089023982656.jpeg
+      text: >-
+        Carolina Reaper por
+
+        A világ legcsípősebb paprikája!  Az átlagos csípőssége 1,569,300 SHU,
+        melyet a Winthrop Egyetem 2013-ban végzett vizsgálata állapított meg. A
+        legcsípősebb mért paprika 2,2 millió SHU!
+
+        1.990,-Ft
+    - image: /img/received_2133415856965162.jpeg
+      text: >-
+        Sárga halál
+
+        Sárga alapanyagokból készült erős chili szósz.  Színét, a sárgára érő
+        paprikáktól és paradicsomoktól kapja. A sárga paradicsomban nincs annyi
+        paradicsomra jellemző sav, mint a piros fajtákban, ezért kissé „simább”,
+        selymesebb az íze, állaga. A kissé citromos „felhangok” tökéletes
+        párosítási lehetőséget adnak, pl. halakhoz, de szinte bármilyen sültek
+        mellett is megállja a helyét.
+
+        1.590,-Ft
   heading: Minőség
   description: >-
     Manufaktúránk nagy hozzáadott értékkel, magas feldolgozottságú kézműves
