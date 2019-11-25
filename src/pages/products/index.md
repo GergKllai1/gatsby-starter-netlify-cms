@@ -18,27 +18,35 @@ intro:
         100% Trinidad Scorpion Moruga chili pehely, őrlőfejes üvegben. Kiválóan
         alkalmas főzéshez, vagy utólag csípőssé tenni vele ételeinket!
         Gazdaságos, csupán egy-két tekerés elegendő lehet.
+
+        1.990,- Ft
     - image: /img/received_709234599571558.jpeg
-      text: >
+      text: >-
         Mennydörgés Chili szósz
 
         Habanero extra szósz, 100 % Habanero! Naturális termék, csupán a
         Habanerokra jellemző ízzel és csípősséggel. Tökéletes donor szósz,
         gazdagítva, keverve, elkészíthető a ház saját szósza is.
+
+        1.590 ,-Ft
     - image: /img/received_463166667650307.jpeg
       text: >
         Kétszercsíp Chili szósz
 
         Magyaros ízű, nagyon erős szósz! Jellemzője az ízeket követő fokozatosan
         erősödő, csípős érzés. Univerzálisan és gazdaságosan használható.
+
+        1.590 ,-Ft
     - image: /img/received_446468369586798.jpeg
-      text: >
+      text: >-
         Füstölt Skorpió chili pehely őrlőben
 
         100% Füstölt Trinidad Scorpion Moruga chili pehely, őrlőfejes üvegben.
         Bükkfa füstön füstölt, egyenként válogatott paprikákból.  Kiválóan
         alkalmas főzéshez, vagy utólag csípőssé tenni vele ételeinket!
         Gazdaságos, csupán egy-két tekerés elegendő lehet.
+
+        1.990 ,-Ft
     - image: /img/received_436089023982656.jpeg
       text: >+
         Carolina Reaper por
@@ -46,6 +54,8 @@ intro:
         A világ legcsípősebb paprikája!  Az átlagos csípőssége 1,569,300 SHU,
         melyet a Winthrop Egyetem 2013-ban végzett vizsgálata állapított meg. A
         legcsípősebb mért paprika 2,2 millió SHU!
+
+        1.990 ,-Ft
 
     - image: /img/received_2133415856965162.jpeg
       text: >
@@ -57,6 +67,8 @@ intro:
         selymesebb az íze, állaga. A kissé citromos „felhangok” tökéletes
         párosítási lehetőséget adnak, pl. halakhoz, de szinte bármilyen sültek
         mellett is megállja a helyét.
+
+        1.590 ,-Ft
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
