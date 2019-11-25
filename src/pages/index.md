@@ -1,21 +1,26 @@
 ---
 templateKey: index-page
-title: The power of chili
-image: /img/home-jumbotron.jpg
+title: Vili Chili
+image: /img/header-860-red_peppers.jpg
 heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+subheading: 'Csípősebb, mint valaha'
 mainpitch:
-  title: Why Kaldi
+  title: Miért mi?
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    A chili egy közkedvelt élelmiszer, sok magyar ember szereti az erösét.  Ez
+    egy olyan termék, ami hamar felkapott lehet a vevők körében. Egyszerű
+    beszerzése az online értékesítésben rejlik, ahol a vásárló kiválaszthatja a
+    neki szimpatikus terméket, ízesítést, valamint akár remek ajándékötlet is
+    lehet, hiszen oldalunkról akár díszdobozban is vásárolhatnak. A bevezető ár
+    segítséget nyújt, hogy kialakítsuk a vevőkörünket, a vásárlók érdeklődjenek
+    a termékünk iránt, megismerjék azt és megkedveljék.
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Amivel a mi chilink ki fog tűnni a többi közül, az a minőségben rejlik.
+  100%ban magyar termékről van szó, még a hozzávaló zöldségeket és a chilit is a
+  mi kertészetünkben állítanánk elő, ami a magyar márkák kedvelőinek kedvez. A
+  kézműves termékeket egyre jobban keresik a vevők, egyre népszerűbbek, így a mi
+  szószaink is kitűnhetnek a piacon, hiszen mindent kézzel készítenénk a
+  biztonság és a finomabb termék előállítása érdekében. 
 intro:
   blurbs:
     - image: /img/coffee.png
